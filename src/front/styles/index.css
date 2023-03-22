@@ -1,3 +1,11 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+
+label {
+  font-weight: 600;
+}
+
+.card-text {
+  font-weight: 600;
+}
